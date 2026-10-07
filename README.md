@@ -11,6 +11,7 @@ ProposalIQ is a read/review/compare interface for existing Proposales proposals.
 - Shows structured comparison fields plus AI analysis and recommendation.
 - Uses meaningful error codes and exponential retry/backoff for transient failures.
 - Does not expose Proposales credentials to the browser.
+- Some simple unit test added
 
 ## Run
 
