@@ -1,0 +1,1 @@
+export const isDevModeEnabled = () => process.env.DEMO_MODE === "true";
